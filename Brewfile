@@ -13,10 +13,6 @@ brew "python"
 brew "docker"
 
 # CLI Utilities
-brew "tree"
-brew "ripgrep"
-brew "fd"
-brew "bat"
 brew "htop"
 
 # Fonts
@@ -30,6 +26,7 @@ cask "brave-origin"
 cask "zoom"
 cask "discord"
 cask "bitwarden"
+cask "onlyoffice"
 
 # Mac App Store Installations (requires mas-cli)
 brew "mas"
