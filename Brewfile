@@ -16,9 +16,7 @@ brew "docker"
 brew "htop"
 
 # Fonts
-cask "font-fira-code"
-cask "font-hack-nerd-font"
-cask "font-agave-nerd-font"
+cask "JetBrainsMono Nerd Font"
 
 # Applications
 cask "visual-studio-code"
