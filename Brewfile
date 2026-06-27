@@ -34,3 +34,4 @@ mas "Magnet", id: 441258766
 mas "UTM Virtual Machines", id: 1538878817
 mas "CrystalFetch ISO Downloader", id: 6454431289
 mas "TextSniper", id: 1528890965
+mas "NextDNS", id: 1464122853
