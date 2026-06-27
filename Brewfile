@@ -20,7 +20,6 @@ cask "font-jetbrains-mono-nerd-font"
 
 # Applications
 cask "visual-studio-code"
-cask "ghostty"
 cask "brave-origin"
 cask "zoom"
 cask "discord"
