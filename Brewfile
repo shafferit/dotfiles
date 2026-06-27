@@ -27,6 +27,8 @@ cask "bitwarden"
 cask "onlyoffice"
 cask "spotify"
 cask "obsidian"
+cask "little-snitch"
+cask "micro-snitch"
 
 # Mac App Store Installations (requires mas-cli)
 brew "mas"
