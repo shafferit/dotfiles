@@ -14,7 +14,6 @@ brew "docker"
 
 # CLI Utilities
 brew "htop"
-brew "ghostty"
 
 # Fonts
 cask "font-fira-code"
@@ -23,6 +22,7 @@ cask "font-agave-nerd-font"
 
 # Applications
 cask "visual-studio-code"
+cask "ghostty"
 cask "brave-origin"
 cask "zoom"
 cask "discord"
