@@ -14,6 +14,7 @@ brew "docker"
 
 # CLI Utilities
 brew "htop"
+brew "ghostty"
 
 # Fonts
 cask "font-fira-code"
