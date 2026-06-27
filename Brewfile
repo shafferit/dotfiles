@@ -27,6 +27,7 @@ cask "zoom"
 cask "discord"
 cask "bitwarden"
 cask "onlyoffice"
+cask "spotify"
 
 # Mac App Store Installations (requires mas-cli)
 brew "mas"
