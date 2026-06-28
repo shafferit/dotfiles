@@ -30,6 +30,7 @@ cask "obsidian"
 cask "little-snitch"
 cask "micro-snitch"
 cask "fastmail"
+cask "caffeine"
 
 # Mac App Store Installations (requires mas-cli)
 brew "mas"
