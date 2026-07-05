@@ -31,6 +31,8 @@ cask "little-snitch"
 cask "micro-snitch"
 cask "fastmail"
 cask "caffeine"
+cask "pangolin"
+
 
 # Mac App Store Installations (requires mas-cli)
 brew "mas"
